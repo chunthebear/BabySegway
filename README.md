@@ -8,4 +8,4 @@ In order to detect whether the Segway should move forward or backwards to balanc
 
 In this project, we made a “Baby Segway”, a mini self-balancing robot without any steering using the two sensors, motors and different softwares such as Arduino for coding the Baby Segway, and LibreCAD for designing to laser-cut the robot.
 
-- Dec 2015 -
+= Dec 2015 =
